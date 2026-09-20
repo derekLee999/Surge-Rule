@@ -1,6 +1,8 @@
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,1password
+DOMAIN-SUFFIX,cloudflareinsights.com
+DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,nodeland.dev
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,openai.com
@@ -20,8 +22,6 @@ DOMAIN-SUFFIX,bun.com
 DOMAIN-SUFFIX,shuai99.dev
 DOMAIN-SUFFIX,nexitally.com
 DOMAIN-SUFFIX,speedtest.net
-DOMAIN-SUFFIX,cloudflareinsights.com
-DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,opencode.ai
 DOMAIN-SUFFIX,raycast.com
 DOMAIN-SUFFIX,ping0.cc
@@ -32,4 +32,8 @@ DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,vfsglobal.com
 DOMAIN-SUFFIX,ca
 DOMAIN-SUFFIX,docker.com
-DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,azure.com
+DOMAIN-SUFFIX,visualstudio.com
+DOMAIN-SUFFIX,microsoftonline.com
+DOMAIN-SUFFIX,msauth.net
