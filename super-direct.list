@@ -249,6 +249,8 @@ DOMAIN-SUFFIX,4399.com
 DOMAIN-SUFFIX,tiancity.com
 DOMAIN-SUFFIX,xiaomy.net
 DOMAIN-SUFFIX,58.com
+DOMAIN,luna.58.com
+DOMAIN,jumpluna.58.com
 
 # vivo
 DOMAIN-SUFFIX,vivo.com.cn
