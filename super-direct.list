@@ -32,6 +32,7 @@ DOMAIN-SUFFIX,neixin.cn
 DOMAIN-SUFFIX,sankuai.com
 DOMAIN-SUFFIX,luzi.ai
 DOMAIN-SUFFIX,rumt-zh.com
+DOMAIN-SUFFIX,gtimg.com
 IP-CIDR,112.65.193.155/32,no-resolve
 IP-CIDR,182.50.15.211/32,no-resolve
 
@@ -215,6 +216,7 @@ DOMAIN-SUFFIX,webnote.cc
 DOMAIN-SUFFIX,oray.net
 DOMAIN-SUFFIX,orayimg.com
 DOMAIN-SUFFIX,oray.com
+DOMAIN-SUFFIX,oraybox.com
 DOMAIN-SUFFIX,hapigo.com
 DOMAIN-SUFFIX,wetab.link
 DOMAIN-SUFFIX,ugreennroup.com
@@ -230,6 +232,7 @@ DOMAIN-SUFFIX,iq.com
 DOMAIN-SUFFIX,smtcdns.com
 DOMAIN-SUFFIX,youku.com
 DOMAIN-SUFFIX,csdn.net
+DOMAIN-SUFFIX,coding.net
 DOMAIN-SUFFIX,codewithcurious.com
 DOMAIN-SUFFIX,effirst.com
 DOMAIN-SUFFIX,sdo.com
@@ -253,7 +256,24 @@ DOMAIN-SUFFIX,58che.com
 DOMAIN,luna.58.com
 DOMAIN,jumpluna.58.com
 DOMAIN-SUFFIX,zhipin.com
+DOMAIN-SUFFIX,bosszhipin.com
 DOMAIN-SUFFIX,lizhi.shop
+DOMAIN-SUFFIX,yxcal.com
+DOMAIN-SUFFIX,better365.com
+DOMAIN-SUFFIX,508sys.com
+DOMAIN-SUFFIX,faisys.com
+DOMAIN-SUFFIX,faiusr.com
+DOMAIN-SUFFIX,fkw.com
+DOMAIN-SUFFIX,xunjiepdf.com
+DOMAIN-SUFFIX,weiduruanjian.com
+DOMAIN-SUFFIX,qiyukf.com
+DOMAIN-SUFFIX,daotudashi.com
+DOMAIN-SUFFIX,127.net
+DOMAIN-SUFFIX,meitu.com
+DOMAIN-SUFFIX,meitudata.com
+DOMAIN-SUFFIX,meitustat.com
+DOMAIN-SUFFIX,dcloud.io
+DOMAIN-SUFFIX,qrstuvwxyzab.com
 
 # vivo
 DOMAIN-SUFFIX,vivo.com.cn
