@@ -124,6 +124,10 @@ DOMAIN-SUFFIX,ndcpp.com
 DOMAIN-SUFFIX,byteacctimg.com
 DOMAIN-SUFFIX,ocic-static.com
 DOMAIN-SUFFIX,dongchedi.com
+DOMAIN-SUFFIX,dcarstatic.com
+DOMAIN-SUFFIX,dcarimg.com
+DOMAIN-SUFFIX,dcarapi.com
+DOMAIN-SUFFIX,toutiao.com
 
 # apple
 DOMAIN,apps.apple.com
@@ -232,6 +236,19 @@ DOMAIN-SUFFIX,sdo.com
 DOMAIN-SUFFIX,115.com
 DOMAIN-SUFFIX,htjsq.com
 DOMAIN-SUFFIX,sobot.com
+DOMAIN-SUFFIX,feijipan.com
+DOMAIN-SUFFIX,fenbi.com
+DOMAIN-SUFFIX,ldmnq.com
+DOMAIN-SUFFIX,changzhi.top
+DOMAIN-SUFFIX,mediav.com
+DOMAIN-SUFFIX,so.com
+DOMAIN-SUFFIX,7881.com
+DOMAIN-SUFFIX,dd373.com
+DOMAIN-SUFFIX,5173.com
+DOMAIN-SUFFIX,4399.com
+DOMAIN-SUFFIX,tiancity.com
+DOMAIN-SUFFIX,xiaomy.net
+DOMAIN-SUFFIX,58.com
 
 # vivo
 DOMAIN-SUFFIX,vivo.com.cn
