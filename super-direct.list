@@ -108,7 +108,6 @@ DOMAIN-SUFFIX,yhgfb-cn-static.com
 # AI
 DOMAIN-SUFFIX,deepseek.com
 DOMAIN-SUFFIX,aliyuncs.com
-DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,qoder.com.cn
 DOMAIN-SUFFIX,qoder.cn
 DOMAIN-SUFFIX,exp-tas.com
@@ -174,6 +173,8 @@ DOMAIN-SUFFIX,iqiyi.com
 DOMAIN-SUFFIX,iq.com
 DOMAIN-SUFFIX,smtcdns.com
 DOMAIN-SUFFIX,youku.com
+DOMAIN-SUFFIX,csdn.net
+DOMAIN-SUFFIX,codewithcurious.com
 
 # 小米
 DOMAIN-SUFFIX,xiaomi.com

@@ -3,6 +3,7 @@ DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,1password
 DOMAIN-SUFFIX,cloudflareinsights.com
 DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,nodeland.dev
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,openai.com
@@ -39,3 +40,9 @@ DOMAIN-SUFFIX,microsoftonline.com
 DOMAIN-SUFFIX,msauth.net
 DOMAIN-SUFFIX,telegram.org
 DOMAIN-SUFFIX,t.me
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,twing.com
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,grok.com
