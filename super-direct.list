@@ -9,6 +9,7 @@
 
 # cn
 DOMAIN-SUFFIX,cn
+
 # 腾讯系
 DOMAIN-SUFFIX,qq.com
 DOMAIN-KEYWORD,wechat
@@ -19,6 +20,7 @@ DOMAIN-SUFFIX,myqcloud.com
 DOMAIN-SUFFIX,tencent-cloud.com
 DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,bilivideo.com
+DOMAIN-SUFFIX,biliapi.net
 DOMAIN-SUFFIX,jd.com
 DOMAIN-SUFFIX,dianping.com
 DOMAIN-SUFFIX,maoyan.com
@@ -31,6 +33,7 @@ DOMAIN-SUFFIX,sankuai.com
 DOMAIN-SUFFIX,luzi.ai
 DOMAIN-SUFFIX,rumt-zh.com
 IP-CIDR,112.65.193.155/32,no-resolve
+IP-CIDR,182.50.15.211/32,no-resolve
 
 # 阿里系
 DOMAIN-KEYWORD,aliyun
@@ -85,6 +88,11 @@ DOMAIN-SUFFIX,lwurl.to
 DOMAIN-SUFFIX,realapp.xin
 DOMAIN-SUFFIX,gitee.com
 DOMAIN-SUFFIX,udesk.cn
+DOMAIN-SUFFIX,alyasset.com
+DOMAIN-SUFFIX,alcasset.com
+DOMAIN-SUFFIX,mmstat.com
+DOMAIN-SUFFIX,cnzz.com
+DOMAIN-SUFFIX,aliapp.org
 
 # 字节
 DOMAIN-KEYWORD,douyin
@@ -109,6 +117,11 @@ DOMAIN-SUFFIX,jianying.com
 DOMAIN-SUFFIX,vlabstatic.com
 DOMAIN-SUFFIX,capcut.cn
 DOMAIN-SUFFIX,yhgfb-cn-static.com
+DOMAIN-SUFFIX,applogcdn.com
+DOMAIN-SUFFIX,bytegecko.com
+DOMAIN-SUFFIX,smtcdns.net
+DOMAIN-SUFFIX,ndcpp.com
+DOMAIN-SUFFIX,byteacctimg.com
 
 # apple
 DOMAIN,apps.apple.com
@@ -204,12 +217,15 @@ DOMAIN-SUFFIX,appstorrent.ru
 DOMAIN-SUFFIX,zerotier.com
 DOMAIN-SUFFIX,imgse.com
 DOMAIN-SUFFIX,123pan.com
+DOMAIN-SUFFIX,123278.com
+DOMAIN-SUFFIX,123957.com
 DOMAIN-SUFFIX,iqiyi.com
 DOMAIN-SUFFIX,iq.com
 DOMAIN-SUFFIX,smtcdns.com
 DOMAIN-SUFFIX,youku.com
 DOMAIN-SUFFIX,csdn.net
 DOMAIN-SUFFIX,codewithcurious.com
+DOMAIN-SUFFIX,effirst.com
 
 # vivo
 DOMAIN-SUFFIX,vivo.com.cn
@@ -240,6 +256,7 @@ DOMAIN-SUFFIX,oywtv.com
 # 知乎
 DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zhimg.com
+DOMAIN-SUFFIX,126.net
 IP-CIDR,103.41.167.226/32,no-resolve
 IP-CIDR,103.41.167.234/31,no-resolve
 IP-CIDR,103.41.167.236/32,no-resolve
