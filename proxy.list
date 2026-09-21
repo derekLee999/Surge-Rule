@@ -1,6 +1,7 @@
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,1password
+DOMAIN-KEYWORD,steam
 DOMAIN-SUFFIX,cloudflareinsights.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,gstatic.com
@@ -85,6 +86,25 @@ DOMAIN-SUFFIX,hotmail.com
 DOMAIN-SUFFIX,oracle.com
 DOMAIN-SUFFIX,edgedatg.com
 DOMAIN-SUFFIX,go.com
+DOMAIN-SUFFIX,f3b7q2p3.ssl.hwcdn.net
+DOMAIN-SUFFIX,fanatical.com
+DOMAIN-SUFFIX,humblebundle.com
+DOMAIN-SUFFIX,playartifact.com
+DOMAIN-SUFFIX,s.team
+DOMAIN-SUFFIX,st.dl.bscstorage.net
+DOMAIN-SUFFIX,st.dl.eccdnx.com
+DOMAIN-SUFFIX,st.dl.pinyuncloud.com
+DOMAIN-SUFFIX,underlords.com
+DOMAIN-SUFFIX,valvesoftware.com
+
+# Epic
+DOMAIN-SUFFIX,epicgames.com
+DOMAIN-SUFFIX,epicgames.dev
+DOMAIN-SUFFIX,helpshift.com
+DOMAIN-SUFFIX,paragon.com
+DOMAIN-SUFFIX,unrealengine.com
+DOMAIN-SUFFIX,ol.epicgames.com
+
 # BBCiPlayer
 DOMAIN-KEYWORD,bbcfmt
 DOMAIN-KEYWORD,uk-live
