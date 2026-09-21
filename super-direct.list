@@ -22,6 +22,9 @@ DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,biliapi.net
 DOMAIN-SUFFIX,jd.com
+DOMAIN,aks.jdpay.com
+DOMAIN-SUFFIX,360buyimg.com
+DOMAIN-SUFFIX,vod.300hu.com
 DOMAIN-SUFFIX,dianping.com
 DOMAIN-SUFFIX,maoyan.com
 DOMAIN-SUFFIX,meituan.com
@@ -228,7 +231,12 @@ DOMAIN-SUFFIX,123pan.com
 DOMAIN-SUFFIX,123278.com
 DOMAIN-SUFFIX,123957.com
 DOMAIN-SUFFIX,iqiyi.com
+DOMAIN-SUFFIX,iqiyipic.com
 DOMAIN-SUFFIX,iq.com
+DOMAIN,qmsg.qy.net
+DOMAIN-SUFFIX,pglstatp-toutiao.com
+DOMAIN,toblog.ctobsnssdk.com
+DOMAIN,upc.zztfly.com
 DOMAIN-SUFFIX,smtcdns.com
 DOMAIN-SUFFIX,youku.com
 DOMAIN-SUFFIX,csdn.net
@@ -274,6 +282,7 @@ DOMAIN-SUFFIX,meitudata.com
 DOMAIN-SUFFIX,meitustat.com
 DOMAIN-SUFFIX,dcloud.io
 DOMAIN-SUFFIX,qrstuvwxyzab.com
+DOMAIN-SUFFIX,cdn.bspapp.com
 
 # vivo
 DOMAIN-SUFFIX,vivo.com.cn
@@ -472,6 +481,11 @@ DOMAIN-SUFFIX,vmall-hw.com
 DOMAIN-SUFFIX,vmall.com
 DOMAIN-SUFFIX,vmallres.com
 DOMAIN-SUFFIX,vrbt.mobi
+DOMAIN-SUFFIX,ksosoft.com
+DOMAIN-SUFFIX,ksord.com
+DOMAIN-SUFFIX,easebar.com
+DOMAIN-SUFFIX,goofish.com
+DOMAIN-SUFFIX,zhuanzhuan.com
 
 # OPPO
 DOMAIN-SUFFIX,aibreeno.com
