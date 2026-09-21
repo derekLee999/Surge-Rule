@@ -112,6 +112,8 @@ DOMAIN-SUFFIX,yhgfb-cn-static.com
 
 # apple
 DOMAIN,apps.apple.com
+DOMAIN,xp.apple.com
+DOMAIN,configuration.apple.com
 DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN-SUFFIX,weather-map2.apple.com
 DOMAIN-SUFFIX,weatherkit.apple.com
