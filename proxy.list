@@ -103,6 +103,12 @@ DOMAIN-SUFFIX,trafficmanager.net
 DOMAIN-SUFFIX,exp-tas.com
 DOMAIN-SUFFIX,gitkraken.com
 DOMAIN-SUFFIX,1passwordservices.com
+DOMAIN-SUFFIX,cookielaw.org
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,stapecdn.com
+DOMAIN-SUFFIX,appsflyersdk.com
+DOMAIN-SUFFIX,ads-twitter.com
+DOMAIN-SUFFIX,us-central1.run.app
 
 # Epic
 DOMAIN-SUFFIX,epicgames.com
