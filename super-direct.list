@@ -122,6 +122,8 @@ DOMAIN-SUFFIX,bytegecko.com
 DOMAIN-SUFFIX,smtcdns.net
 DOMAIN-SUFFIX,ndcpp.com
 DOMAIN-SUFFIX,byteacctimg.com
+DOMAIN-SUFFIX,ocic-static.com
+DOMAIN-SUFFIX,dongchedi.com
 
 # apple
 DOMAIN,apps.apple.com
@@ -226,6 +228,10 @@ DOMAIN-SUFFIX,youku.com
 DOMAIN-SUFFIX,csdn.net
 DOMAIN-SUFFIX,codewithcurious.com
 DOMAIN-SUFFIX,effirst.com
+DOMAIN-SUFFIX,sdo.com
+DOMAIN-SUFFIX,115.com
+DOMAIN-SUFFIX,htjsq.com
+DOMAIN-SUFFIX,sobot.com
 
 # vivo
 DOMAIN-SUFFIX,vivo.com.cn
