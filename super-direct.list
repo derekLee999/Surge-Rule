@@ -113,6 +113,7 @@ DOMAIN-SUFFIX,yhgfb-cn-static.com
 # apple
 DOMAIN,apps.apple.com
 DOMAIN,xp.apple.com
+DOMAIN,xp-cdn.apple.com
 DOMAIN,configuration.apple.com
 DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN-SUFFIX,weather-map2.apple.com
@@ -131,6 +132,7 @@ DOMAIN-SUFFIX,ls.apple.com
 DOMAIN-SUFFIX,icloud-apple.com
 DOMAIN,lcdn-registration.apple.com
 DOMAIN,suconfig.apple.com
+DOMAIN,api.apple-cloudkit.com
 DOMAIN-SUFFIX,apple.com.akadns.net
 
 # AI
