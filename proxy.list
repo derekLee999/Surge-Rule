@@ -2,8 +2,7 @@ DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,1password
 DOMAIN-KEYWORD,steam
-DOMAIN-SUFFIX,cloudflareinsights.com
-DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-KEYWORD,cloudflare
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,nodeland.dev
 DOMAIN-SUFFIX,chatgpt.com
