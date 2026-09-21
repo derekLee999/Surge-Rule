@@ -1,11 +1,11 @@
 # NAME: super-direct-rule
 # AUTHOR: XiaoShuai
 # UPDATED: 2026-09-20 01:41:34
-# DOMAIN-SUFFIX: 837
+# DOMAIN-SUFFIX: 849
 # DOMAIN-KEYWORD: 6
 # IP-CIDR: 96
 # IP-CIDR6: 1
-# TOTAL: 940
+# TOTAL: 952
 
 # cn
 DOMAIN-SUFFIX,cn
@@ -14,6 +14,8 @@ DOMAIN-SUFFIX,qq.com
 DOMAIN-KEYWORD,wechat
 DOMAIN-KEYWORD,weixin
 DOMAIN-SUFFIX,tencent.com
+DOMAIN-SUFFIX,qcloudimg.com
+DOMAIN-SUFFIX,myqcloud.com
 DOMAIN-SUFFIX,tencent-cloud.com
 DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,bilivideo.com
