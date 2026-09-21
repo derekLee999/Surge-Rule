@@ -25,10 +25,12 @@ DOMAIN-SUFFIX,maoyan.com
 DOMAIN-SUFFIX,meituan.com
 DOMAIN-SUFFIX,meituan.net
 DOMAIN-SUFFIX,mtyun.com
+DOMAIN-SUFFIX,dianping.com
 DOMAIN-SUFFIX,neixin.cn
 DOMAIN-SUFFIX,sankuai.com
 DOMAIN-SUFFIX,luzi.ai
 DOMAIN-SUFFIX,rumt-zh.com
+IP-CIDR,112.65.193.155/32,no-resolve
 
 # 阿里系
 DOMAIN-KEYWORD,aliyun
@@ -145,8 +147,16 @@ DOMAIN-SUFFIX,chatglm.site
 DOMAIN-SUFFIX,bigmodel.cn
 DOMAIN-SUFFIX,kimi.com
 DOMAIN-SUFFIX,xiaomimimo.com
+DOMAIN-SUFFIX,longcat.chat
 
 # 其它
+DOMAIN-SUFFIX,weather-map2.apple.com
+DOMAIN-SUFFIX,weatherkit.apple.com
+DOMAIN,certs.apple.com
+DOMAIN,crl.apple.com
+DOMAIN,valid.apple.com
+DOMAIN,ocsp2.apple.com
+DOMAIN,ocsp.apple.com
 DOMAIN-SUFFIX,163.com
 DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,163yun.com
@@ -173,8 +183,6 @@ DOMAIN-SUFFIX,appstorrent.ru
 DOMAIN-SUFFIX,zerotier.com
 DOMAIN-SUFFIX,imgse.com
 DOMAIN-SUFFIX,123pan.com
-DOMAIN-SUFFIX,weather-map2.apple.com
-DOMAIN-SUFFIX,weatherkit.apple.com
 DOMAIN-SUFFIX,iqiyi.com
 DOMAIN-SUFFIX,iq.com
 DOMAIN-SUFFIX,smtcdns.com
@@ -184,6 +192,7 @@ DOMAIN-SUFFIX,codewithcurious.com
 
 # vivo
 DOMAIN-SUFFIX,vivo.com.cn
+DOMAIN-SUFFIX,iqoo.com
 # 小米
 DOMAIN-SUFFIX,xiaomi.com
 DOMAIN-SUFFIX,mi.com
