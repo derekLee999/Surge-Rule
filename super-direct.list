@@ -182,6 +182,8 @@ DOMAIN-SUFFIX,youku.com
 DOMAIN-SUFFIX,csdn.net
 DOMAIN-SUFFIX,codewithcurious.com
 
+# vivo
+DOMAIN-SUFFIX,vivo.com.cn
 # 小米
 DOMAIN-SUFFIX,xiaomi.com
 DOMAIN-SUFFIX,mi.com
