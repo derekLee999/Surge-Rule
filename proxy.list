@@ -15,6 +15,11 @@ DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,ippure.com
+DOMAIN-SUFFIX,999831.xyz
+DOMAIN-SUFFIX,icanhazip.com
+DOMAIN-SUFFIX,123169.xyz
+DOMAIN-SUFFIX,ipapi.co
+DOMAIN-SUFFIX,openstreetmap.org
 DOMAIN-SUFFIX,xmpp4.tktn.be
 DOMAIN-SUFFIX,tktn.be
 DOMAIN-SUFFIX,meta.ai
@@ -106,10 +111,16 @@ DOMAIN-SUFFIX,gitkraken.com
 DOMAIN-SUFFIX,1passwordservices.com
 DOMAIN-SUFFIX,cookielaw.org
 DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,checkout.stripe.com
 DOMAIN-SUFFIX,stapecdn.com
 DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-SUFFIX,ads-twitter.com
 DOMAIN-SUFFIX,us-central1.run.app
+DOMAIN-SUFFIX,webshare.io
+DOMAIN-SUFFIX,klaviyo.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,stripe.network
 
 # Epic
 DOMAIN-SUFFIX,epicgames.com
