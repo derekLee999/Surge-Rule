@@ -67,9 +67,15 @@ DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,muse.ai
+DOMAIN-SUFFIX,facebook.net
+DOMAIN-SUFFIX,sc-static.net
+DOMAIN-SUFFIX,on.aws
+DOMAIN-SUFFIX,snapchat.com
 DOMAIN-SUFFIX,ebay.com
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-KEYWORD,tiktok
+DOMAIN,sf16-website-login.neutral.ttwstatic.com
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,walmart.com
