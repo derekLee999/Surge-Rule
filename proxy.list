@@ -100,8 +100,12 @@ DOMAIN,pm-redirects.stripe.com
 DOMAIN,merchant-ui-api.stripe.com
 DOMAIN,api.stripe.com
 DOMAIN-SUFFIX,stripecdn.com
+DOMAIN-SUFFIX,stripe.global
+DOMAIN-SUFFIX,stripe.dev
 DOMAIN-SUFFIX,checkout.stripe.com
 DOMAIN-SUFFIX,stripe.network
+DOMAIN-SUFFIX,hcaptcha.com
+DOMAIN-SUFFIX,link.com
 DOMAIN-SUFFIX,stapecdn.com
 DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-SUFFIX,ads-twitter.com
