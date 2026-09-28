@@ -92,6 +92,13 @@ DOMAIN-SUFFIX,valvesoftware.com
 DOMAIN-SUFFIX,exp-tas.com
 DOMAIN-SUFFIX,cookielaw.org
 DOMAIN-SUFFIX,stripe.com
+DOMAIN,js.stripe.com
+DOMAIN,m.stripe.com
+DOMAIN,m.stripe.network
+DOMAIN,r.stripe.com
+DOMAIN,pm-redirects.stripe.com
+DOMAIN,merchant-ui-api.stripe.com
+DOMAIN,api.stripe.com
 DOMAIN-SUFFIX,stripecdn.com
 DOMAIN-SUFFIX,checkout.stripe.com
 DOMAIN-SUFFIX,stripe.network
@@ -103,6 +110,7 @@ DOMAIN-SUFFIX,klaviyo.com
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,nssurge.com
+DOMAIN,api.nssurge.com
 DOMAIN-SUFFIX,rsms.me
 DOMAIN-SUFFIX,rebound.postmarkapp.com
 
