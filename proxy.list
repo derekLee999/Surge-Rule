@@ -1,5 +1,6 @@
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,steam
+DOMAIN-KEYWORD,stripe
 
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,agilebits.com
@@ -91,7 +92,9 @@ DOMAIN-SUFFIX,valvesoftware.com
 DOMAIN-SUFFIX,exp-tas.com
 DOMAIN-SUFFIX,cookielaw.org
 DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,stripecdn.com
 DOMAIN-SUFFIX,checkout.stripe.com
+DOMAIN-SUFFIX,stripe.network
 DOMAIN-SUFFIX,stapecdn.com
 DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-SUFFIX,ads-twitter.com
@@ -99,7 +102,7 @@ DOMAIN-SUFFIX,us-central1.run.app
 DOMAIN-SUFFIX,klaviyo.com
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
-DOMAIN-SUFFIX,stripe.network
+
 
 # Epic
 DOMAIN-SUFFIX,epicgames.com
