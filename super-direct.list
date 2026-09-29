@@ -100,6 +100,9 @@ DOMAIN-SUFFIX,alcasset.com
 DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,cnzz.com
 DOMAIN-SUFFIX,aliapp.org
+DOMAIN-SUFFIX,tmall.com
+DOMAIN-SUFFIX,alibaba-inc.com
+DOMAIN-SUFFIX,tbcache.com
 
 # 字节
 DOMAIN-KEYWORD,douyin
