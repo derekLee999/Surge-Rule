@@ -7,6 +7,8 @@
 # IP-CIDR6: 1
 # TOTAL: 952
 
+# My domains
+DOMAIN-SUFFIX,1721062.xyz
 # cn
 DOMAIN-SUFFIX,cn
 
@@ -38,8 +40,11 @@ DOMAIN-SUFFIX,cnb.cool
 DOMAIN-SUFFIX,rumt-zh.com
 DOMAIN-SUFFIX,gtimg.com
 DOMAIN-SUFFIX,yunxish.com
+DOMAIN-SUFFIX,idqqimg.com
 IP-CIDR,112.65.193.155/32,no-resolve
 IP-CIDR,182.50.15.211/32,no-resolve
+IP-CIDR,43.175.230.190/32,no-resolve
+IP-CIDR,220.196.139.176/32,no-resolve
 
 # 阿里系
 DOMAIN-KEYWORD,aliyun
@@ -145,18 +150,18 @@ DOMAIN-SUFFIX,ecombdimg.com
 DOMAIN-SUFFIX,ecombdstatic.com
 
 # apple
-DOMAIN,apps.apple.com
-DOMAIN,xp.apple.com
-DOMAIN,xp-cdn.apple.com
-DOMAIN,configuration.apple.com
+DOMAIN-SUFFIX,apps.apple.com
+DOMAIN-SUFFIX,xp.apple.com
+DOMAIN-SUFFIX,xp-cdn.apple.com
+DOMAIN-SUFFIX,configuration.apple.com
 DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN-SUFFIX,weather-map2.apple.com
 DOMAIN-SUFFIX,weatherkit.apple.com
-DOMAIN,certs.apple.com
-DOMAIN,crl.apple.com
-DOMAIN,valid.apple.com
-DOMAIN,ocsp2.apple.com
-DOMAIN,ocsp.apple.com
+DOMAIN-SUFFIX,certs.apple.com
+DOMAIN-SUFFIX,crl.apple.com
+DOMAIN-SUFFIX,valid.apple.com
+DOMAIN-SUFFIX,ocsp2.apple.com
+DOMAIN-SUFFIX,ocsp.apple.com
 DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,icloud.com
@@ -164,9 +169,9 @@ DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,ls.apple.com
 DOMAIN-SUFFIX,icloud-apple.com
-DOMAIN,lcdn-registration.apple.com
-DOMAIN,suconfig.apple.com
-DOMAIN,api.apple-cloudkit.com
+DOMAIN-SUFFIX,lcdn-registration.apple.com
+DOMAIN-SUFFIX,suconfig.apple.com
+DOMAIN-SUFFIX,api.apple-cloudkit.com
 DOMAIN-SUFFIX,apple.com.akadns.net
 
 # AI
@@ -281,8 +286,8 @@ DOMAIN-SUFFIX,tiancity.com
 DOMAIN-SUFFIX,xiaomy.net
 DOMAIN-SUFFIX,58.com
 DOMAIN-SUFFIX,58che.com
-DOMAIN,luna.58.com
-DOMAIN,jumpluna.58.com
+DOMAIN-SUFFIX,luna.58.com
+DOMAIN-SUFFIX,jumpluna.58.com
 DOMAIN-SUFFIX,zhipin.com
 DOMAIN-SUFFIX,bosszhipin.com
 DOMAIN-SUFFIX,lizhi.shop
@@ -316,6 +321,7 @@ DOMAIN-SUFFIX,mi-img.com
 DOMAIN-SUFFIX,mifile.cn
 DOMAIN-SUFFIX,miui.com
 DOMAIN-SUFFIX,xiaomiev.com
+DOMAIN-SUFFIX,migames.com
 
 # 斗鱼
 DOMAIN-SUFFIX,bytefcdnrd.com

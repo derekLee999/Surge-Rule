@@ -56,7 +56,7 @@ DOMAIN-SUFFIX,snapchat.com
 DOMAIN-SUFFIX,ebay.com
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-KEYWORD,tiktok
-DOMAIN,sf16-website-login.neutral.ttwstatic.com
+DOMAIN-SUFFIX,sf16-website-login.neutral.ttwstatic.com
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,walmart.com
@@ -92,13 +92,13 @@ DOMAIN-SUFFIX,valvesoftware.com
 DOMAIN-SUFFIX,exp-tas.com
 DOMAIN-SUFFIX,cookielaw.org
 DOMAIN-SUFFIX,stripe.com
-DOMAIN,js.stripe.com
-DOMAIN,m.stripe.com
-DOMAIN,m.stripe.network
-DOMAIN,r.stripe.com
-DOMAIN,pm-redirects.stripe.com
-DOMAIN,merchant-ui-api.stripe.com
-DOMAIN,api.stripe.com
+DOMAIN-SUFFIX,js.stripe.com
+DOMAIN-SUFFIX,m.stripe.com
+DOMAIN-SUFFIX,m.stripe.network
+DOMAIN-SUFFIX,r.stripe.com
+DOMAIN-SUFFIX,pm-redirects.stripe.com
+DOMAIN-SUFFIX,merchant-ui-api.stripe.com
+DOMAIN-SUFFIX,api.stripe.com
 DOMAIN-SUFFIX,stripecdn.com
 DOMAIN-SUFFIX,stripe.global
 DOMAIN-SUFFIX,stripe.dev
@@ -114,7 +114,7 @@ DOMAIN-SUFFIX,klaviyo.com
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,nssurge.com
-DOMAIN,api.nssurge.com
+DOMAIN-SUFFIX,api.nssurge.com
 DOMAIN-SUFFIX,rsms.me
 DOMAIN-SUFFIX,rebound.postmarkapp.com
 
