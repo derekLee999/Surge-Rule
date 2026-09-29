@@ -136,6 +136,10 @@ DOMAIN-SUFFIX,dcarstatic.com
 DOMAIN-SUFFIX,dcarimg.com
 DOMAIN-SUFFIX,dcarapi.com
 DOMAIN-SUFFIX,toutiao.com
+DOMAIN-SUFFIX,byteeffecttos.com
+DOMAIN-SUFFIX,huoshanstatic.com
+DOMAIN-SUFFIX,ecombdimg.com
+DOMAIN-SUFFIX,ecombdstatic.com
 
 # apple
 DOMAIN,apps.apple.com
